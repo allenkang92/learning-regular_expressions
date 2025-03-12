@@ -1,4 +1,4 @@
-# 정규 표현식 학습 가이드
+# learning regular expressions
 
 ## 개요
 정규 표현식(Regular Expressions)을 학습하기 위한 개인 아카이빙입니다.
